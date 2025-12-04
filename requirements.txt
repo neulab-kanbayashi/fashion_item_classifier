@@ -3,3 +3,5 @@ torch==2.9.0
 torchvision==0.24.0
 Pillow
 matplotlib
+protobuf==3.20.3
+altair<5
