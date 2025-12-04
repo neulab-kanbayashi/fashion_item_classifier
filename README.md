@@ -1,0 +1,2 @@
+# fashion_item_classifier
+pytorchの本で実践したFashion-MNISTをデプロイ
